@@ -1,9 +1,6 @@
+title: Page With Sidebar
+subtitle: A demo page with a sidebar
 layout: page
-title: Example Landing Page
-subtitle: This is an example landing page with callouts
-hero_height: is-large
-hero_link: /page-1/
-hero_link_text: Example Call To Action
+show_sidebar: true
 
-
-## hey hey
+## hey heyz
