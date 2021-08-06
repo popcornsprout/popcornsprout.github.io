@@ -5,7 +5,7 @@ show_sidebar: true
 
 
 
-## Welcome to the Solomon project codenamed 🍿🌱
+## Welcome to the 🍿🌱
 ### This repo was created to host project prototypes and documentation
 
 Direct questions and inquiries to ????
